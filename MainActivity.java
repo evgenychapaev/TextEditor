@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
     private final static String FILENAME = "sample.txt"; // имя файла
     private EditText mEditText;
 
